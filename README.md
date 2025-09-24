@@ -1,4 +1,23 @@
-# 📊 Vendor Performance Data Analysis
+<h1 align="center">📊 Vendor Performance Data Analysis</h1>
+
+---
+
+<h3 align="center">🔖 Repo Stats</h3>
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/SheikhNoor/Vendor-Performance-Data-Visualisation" alt="Last Commit">
+  <img src="https://img.shields.io/github/languages/top/SheikhNoor/Vendor-Performance-Data-Visualisation" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/count/SheikhNoor/Vendor-Performance-Data-Visualisation" alt="Language Count">
+ 
+</p>
+<h3 align="center">🧑‍💻 Languages Used</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/SQL-SQLAlchemy-lightgrey" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow" alt="Power BI">
+</p>
+
+---
 
 ## 📑 Table of Contents
 
