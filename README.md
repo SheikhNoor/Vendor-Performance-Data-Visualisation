@@ -200,7 +200,7 @@ This ensures fault tolerance and process transparency.
 
 ## 📂 Dataset Summary
 
-- **Volume:** ~10 million rows across 4 tables
+- **Volume:** ~15 million rows across 6 tables
 - **Challenge:** Memory management and processing efficiency
 - **Solution:** Chunked ingestion, optimized SQL queries, and indexing
 - **Applications:** Vendor selection, pricing optimization, supply chain management
