@@ -38,7 +38,7 @@
 
 ## ✅ Project Overview
 
-This project analyzes and visualizes vendor performance using a large dataset comprising approximately **10 million records**. These records span purchases, sales, freight charges, and pricing details across multiple vendors and brands. The goal is to extract actionable insights that help:
+This project analyzes and visualizes vendor performance using a large dataset comprising approximately **15 million records**. These records span purchases, sales, freight charges, and pricing details across multiple vendors and brands. The goal is to extract actionable insights that help:
 
 - Optimize vendor relationships  
 - Improve purchasing strategies  
